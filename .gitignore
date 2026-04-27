@@ -1,0 +1,31 @@
+# Build outputs
+bin/
+obj/
+publish/
+installer/output/
+
+# User-specific files
+*.user
+*.suo
+.vs/
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude Code
+.claude/
+
+# Config utilisateur (contient des chemins locaux)
+# Ne pas versionner — généré automatiquement au premier lancement
+# %AppData%\DiagLauncher\settings.json  ← hors du repo de toute façon

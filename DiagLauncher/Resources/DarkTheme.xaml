@@ -1,0 +1,36 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- Background colors -->
+    <SolidColorBrush x:Key="WindowBackground"     Color="#0F1117"/>
+    <SolidColorBrush x:Key="SidebarBackground"    Color="#161B22"/>
+    <SolidColorBrush x:Key="TileBackground"       Color="#1C2128"/>
+    <SolidColorBrush x:Key="TileHover"            Color="#2D333B"/>
+    <SolidColorBrush x:Key="TilePressed"          Color="#373E47"/>
+    <SolidColorBrush x:Key="TileBorder"           Color="#30363D"/>
+    <SolidColorBrush x:Key="AccentColor"          Color="#1E78C8"/>
+    <SolidColorBrush x:Key="AccentHover"          Color="#2188D8"/>
+    <SolidColorBrush x:Key="CategoryActive"       Color="#1E78C8"/>
+    <SolidColorBrush x:Key="CategoryInactive"     Color="#1C2128"/>
+    <SolidColorBrush x:Key="CategoryBorder"       Color="#30363D"/>
+    <SolidColorBrush x:Key="HeaderBackground"     Color="#0D1117"/>
+    <SolidColorBrush x:Key="DialogBackground"     Color="#161B22"/>
+    <SolidColorBrush x:Key="InputBackground"      Color="#0D1117"/>
+    <SolidColorBrush x:Key="InputBorder"          Color="#30363D"/>
+    <SolidColorBrush x:Key="SeparatorColor"       Color="#21262D"/>
+
+    <!-- Text colors -->
+    <SolidColorBrush x:Key="PrimaryText"          Color="#E6EDF3"/>
+    <SolidColorBrush x:Key="SecondaryText"        Color="#8B949E"/>
+    <SolidColorBrush x:Key="TileNameText"         Color="#E6EDF3"/>
+    <SolidColorBrush x:Key="CategoryActiveText"   Color="#FFFFFF"/>
+    <SolidColorBrush x:Key="CategoryInactiveText" Color="#8B949E"/>
+    <SolidColorBrush x:Key="ButtonText"           Color="#FFFFFF"/>
+    <SolidColorBrush x:Key="DangerColor"          Color="#DA3633"/>
+    <SolidColorBrush x:Key="DangerHover"          Color="#F85149"/>
+
+    <!-- Scrollbar -->
+    <SolidColorBrush x:Key="ScrollbarThumb"       Color="#30363D"/>
+    <SolidColorBrush x:Key="ScrollbarTrack"       Color="#0D1117"/>
+
+</ResourceDictionary>
